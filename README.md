@@ -5,7 +5,7 @@
 ### My Github Performance
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dwipasca)](https://github.com/anuraghazra/github-readme-stats)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwipasca&layout=compact)](https://github.com/adiatma/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwipasca)](https://github.com/adiatma/github-readme-stats)
 
 
 <!--
