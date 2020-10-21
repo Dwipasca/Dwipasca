@@ -1,5 +1,4 @@
-### Hi! 👋 My name is Dwi Pasca Nursanti, 
-### but you can call me Dwi
+### Hi! 👋 My name is Dwi Pasca Nursanti, but you can call me Dwi
 
 All Technologies I have used before (From most to least recent):
 
