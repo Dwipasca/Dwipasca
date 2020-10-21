@@ -6,6 +6,7 @@ All Technologies I have used before (From most to least recent):
 - **Databases**: MySQL | MongoDB -> (I’m currently learning on this) 
 - **Client Side**: React -> (I’m currently learning on this)
 - **UI Frameworks**: Bootstrap
+- **PHP Frameworks**: Codeigniter | Laravel
 - **Server Side**: Node.js, Express, REST APIs -> (I’m currently learning on this) 
 - **ODM/ORM**: Mongoose -> (I’m currently learning on this)
 - **Mobile**: Android Studio
