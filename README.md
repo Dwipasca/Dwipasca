@@ -1,5 +1,15 @@
-## Hi! 👋 My name is Dwi Pasca Nursanti, 
-## you can call me Dwi
+### Hi! 👋 My name is Dwi Pasca Nursanti, 
+### but you can call me Dwi
+
+All Technologies I have used before (From most to least recent):
+
+- **Languages**: JavaScript | Python | Kotlin
+- **Databases**: MySQL | MongoDB -> (I’m currently learning on this) 
+- **Client Side**: React -> (I’m currently learning on this)
+- **UI Frameworks**: Bootstrap
+- **Server Side**: Node.js, Express, REST APIs -> (I’m currently learning on this) 
+- **ODM/ORM**: Mongoose -> (I’m currently learning on this)
+- **Mobile**: Android Studio
 
 
 <!--
