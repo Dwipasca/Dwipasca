@@ -10,3 +10,9 @@ I have some skills in frontend such as Javascript, ReactJS, NextJS, Typescript, 
 Let me know if you are interested in my profile. <br>
 
 Have a good day 😄
+
+### My Sosmed
+<p align="left">
+<a href="https://www.linkedin.com/in/dwi-pasca-nursanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In - Dwi Pasca Nursanti" height="30" width="40" /></a>
+<a href="https://medium.com/@dwipascanursanti020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium - Dwi Pasca Nursanti" height="30" width="40" /></a>
+</p>
