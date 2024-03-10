@@ -18,6 +18,6 @@ Here are my three latest posts:
 </div>
 
 ## **📫 Reach me at**
-[![Linkedin Badge](https://img.shields.io/badge/-Dwipasca-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwi-pasca-nursanti/)](https://www.linkedin.com/in/dwi-pasca-nursanti/)
-[![Medium Badge](https://img.shields.io/badge/-Dwipasca-000000?style=flat&labelColor=000000&logo=Medium&link=https://dwipascanursanti020.medium.com/)](https://dwipascanursanti020.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Dwipasca-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dwipascanursanti020@gmail.com)](mailto:dwipascanursanti020@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwi-pasca-nursanti/)](https://www.linkedin.com/in/dwi-pasca-nursanti/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://dwipascanursanti020.medium.com/)](https://dwipascanursanti020.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dwipascanursanti020@gmail.com)](mailto:dwipascanursanti020@gmail.com)
