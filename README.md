@@ -1,6 +1,8 @@
-# Hi there my name is Dwi Pasca 👋
-I'm a Front-end Developer with more than 2 years of experience making websites super easy to use. <br/> 
-Think of me as your web wizard, crafting online magic to make your browsing a breeze!
+## Hi there 👋 <br/> my name is Dwi Pasca Nursanti <br/> but you can call me Dwi
+
+### I’m a <span style="color: red;"> Software Developer </span> specializing in Frontend development with over <br/> 2 years of hands-on experience.
+
+### I am adept at collaborating with cross-functional teams to deliver high-quality <br/> solutions that align with both user requirements and business objectives.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dwipasca" alt="Dwipasca" /> </p>
 
