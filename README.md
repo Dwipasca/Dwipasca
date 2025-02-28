@@ -1,8 +1,21 @@
-## Hi there 👋 <br/> my name is Dwi Pasca Nursanti <br/> but you can call me Dwi
+## Howdy folks! 👋 
 
-### I’m a <span style="color: red;"> Software Developer </span> specializing in Frontend development with over <br/> 2 years of hands-on experience.
+I'm Dwi Pasca Nursanti, but you can call me Dwi.
+<br/>
+I'm a passionate Software Developer from Indonesia, specializing in Frontend development with over 2 years of hands-on experience.
+<br/>
+I love connecting with others, sharing knowledge, and exploring the latest technologies. 
+<br/>
+<br/>
+Being part of tech communities keeps me inspired and constantly learning. 
+<br/>
+When I'm not coding, you'll probably find me exercising — because I believe a healthy body fuels a positive mind.
+<br/>
+Currently, I'm diving into Golang and grindig [leetcode](https://leetcode.com/u/dwipasca/) to expand my skills and become a Full Stack Developer.
 
-### I am adept at collaborating with cross-functional teams to deliver high-quality <br/> solutions that align with both user requirements and business objectives.
+I'm always open to freelance opportunities, collaborating on exciting projects, and contributing to open source.
+<br/>
+Let's connect and create something amazing together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dwipasca" alt="Dwipasca" /> </p>
 
