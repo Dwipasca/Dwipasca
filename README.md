@@ -1,6 +1,6 @@
-## Howdy folks! 👋 
+## Howdy👋 
 
-I'm Dwi Pasca Nursanti, but you can call me Dwi.
+My name is Dwi Pasca Nursanti, but you can call me Dwi.
 <br/>
 I'm a passionate Software Developer from Indonesia, specializing in Frontend development with over 2 years of hands-on experience.
 <br/>
